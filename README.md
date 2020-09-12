@@ -1,4 +1,4 @@
-# belajar_dari_ahlinya_pawang_ular
+# Belajar_dari_ahlinya_pawang_ular
 
 # PIP3 INSTALL
 - sudo | apt-get install python3-pip
