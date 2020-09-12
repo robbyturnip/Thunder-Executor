@@ -1,0 +1,1 @@
+/usr/lib/python2.7/encodings/cp856.py
